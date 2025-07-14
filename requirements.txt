@@ -1,13 +1,3 @@
-crewai 
-crewai_tools 
-python-dotenv
-langchain-google-genai
-google-generativeai
-duckduckgo-search
 mysql-connector-python
 streamlit
- crewai 
- crewai[tools] 
- langchain-openai l
- angchain-community 
- duckduckgo-search
+ 
